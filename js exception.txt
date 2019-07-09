@@ -1,0 +1,4 @@
+1.ask no from user 5 times
+ link- https://jsfiddle.net/nog186sx/
+2.ask user to enter no between 5 and 10
+https://jsfiddle.net/z3atnc2L/
